@@ -1,0 +1,190 @@
+
+.secao-inicio {
+    padding: 4rem;
+}
+
+.subtitulo-principal {
+    font-size : 2rem;
+    text-shadow: 2px 2px #000;
+}
+
+#linkintelligenci {
+    margin-left: -50px;
+    position: absolute;
+    width:500px;
+    height: 250px
+}
+
+#linkdesign {
+    margin-top:7%;
+    margin-left: 400px;
+    height: 230px
+}
+
+.forms {
+    margin-left: 36.1%;
+    text-align: left;
+    width: 500px;
+}
+
+.forms .form-group label {
+    text-align: left;
+}
+
+#nome {
+    width: 75%;
+}
+
+#email {
+    width: 75%;
+}
+
+#personalizado-check {
+    width: 75%;
+}
+
+#personalizado {
+    width: 75%;
+}
+
+header {
+    height: 300px;
+}
+
+.trabalhos img:hover {
+    border: 4px solid dodgerblue;
+}
+
+.botao-facaparte {
+    margin-top: 5%;
+    margin-bottom: 8.3%;
+}
+
+.botao-finalizar {
+    margin-top: 1%;
+    margin-bottom: 8.3%;
+    margin-left: 20%;
+}
+
+#inscricaoEnviadaSucesso {
+    text-align: center;
+}
+.titulo-principal h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 5%;
+    margin-left: 4%;
+    font-size: 5rem;
+    position: relative;
+    text-shadow: 5px 5px #000;
+}
+
+.saudacao-inicio {
+    margin-left: 30%;
+    font-size: 3rem;
+    color: #889;
+}
+
+.focus {
+    border-color: blue;
+}
+
+.saudacao-ultima-linha {
+    margin-left: 40%;
+    display: block;
+}
+
+.form-control {
+    margin-bottom: 2%;
+    margin-top: 1%;
+}
+
+main h4 {
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
+
+.form-group label {
+    text-align: center;
+    display: block;
+    padding: 0.5%;
+}
+
+.form-group  {
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.form-group .weight {
+    font-weight: bold;
+}
+
+
+
+.secao-inicio h2 {
+    font-size: 2em;
+    text-transform: uppercase;
+}
+
+.espacamento {
+    margin-top: 580px;
+}
+
+.desaparece {
+    display: none;
+}
+
+.errado {
+    border-color: red;
+    color: red;
+}
+
+.correto {
+    border-color: green;
+    color:green;
+}
+
+.trabalhos {
+    background-color: steelblue;
+    text-align: center;
+}
+
+
+.trabalhos h2 {
+    margin-left: -1.8%;
+    padding: 1.25rem;
+    text-shadow: 2px 2px #000;
+    color: #FFF;
+}
+
+.trabalhos ul {
+    overflow: hidden;
+}
+
+.trabalhos li {
+    float: left;
+    width: 33.333%;
+}
+
+.trabalhos img {
+    width: 100%;
+    display: block;
+}
+
+main {
+    width: 100%;
+    padding-bottom: 0;
+    float: none;
+    text-align: center;
+}
+
+#labs {
+    font-style: italic;
+}
+
+.palavra-home {
+    font-size: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: lightcyan;
+}
